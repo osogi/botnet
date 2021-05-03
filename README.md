@@ -21,3 +21,5 @@ git clone https://github.com/osogi/botnet
 **botnet_files/client.go** - a program of bot
 
 **botnet_files/controler.go** - a program of client for controlling the bots
+
+**botnet_files/infestor.go** - computer infection program (for infestation need to be launched with high permission and be in one folder with bot program named as clientgui.exe)
